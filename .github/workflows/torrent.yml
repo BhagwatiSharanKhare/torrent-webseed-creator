@@ -5,7 +5,7 @@ on:
       - master
       
 env:
-  name: "linuxpart5.torrent"
+  name: "linuxpart5"
   comment: "Firefox Setup 84.0"
   url: "http://144.217.237.217/rp/?file=ea2ec433fc"
   file_name: "www.Linux_Troubleshooting_Course_with_Practical_Examples.part5.rar" 
