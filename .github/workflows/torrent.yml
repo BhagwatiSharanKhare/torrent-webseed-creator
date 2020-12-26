@@ -8,6 +8,7 @@ env:
   name: "www.Linux_Troubleshooting_Course_with_Practical_Examples.part5.rar"
   comment: "Firefox Setup 84.0"
   url: "http://144.217.237.217/rp/?file=ea2ec433fc"
+  file_name: "www.Linux_Troubleshooting_Course_with_Practical_Examples.part5.rar" 
   piece_size: 19 # Check the README.md for recommended piece size
       
 jobs:
